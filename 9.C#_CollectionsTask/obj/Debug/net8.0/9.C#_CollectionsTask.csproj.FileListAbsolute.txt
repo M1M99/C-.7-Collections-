@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\9.C#_CollectionsTask\9.C#_CollectionsTask\bin\Debug\net8.0\9.C#_CollectionsTask.exe
+C:\Users\ASUS\source\repos\9.C#_CollectionsTask\9.C#_CollectionsTask\bin\Debug\net8.0\9.C#_CollectionsTask.deps.json
+C:\Users\ASUS\source\repos\9.C#_CollectionsTask\9.C#_CollectionsTask\bin\Debug\net8.0\9.C#_CollectionsTask.runtimeconfig.json
+C:\Users\ASUS\source\repos\9.C#_CollectionsTask\9.C#_CollectionsTask\bin\Debug\net8.0\9.C#_CollectionsTask.dll
+C:\Users\ASUS\source\repos\9.C#_CollectionsTask\9.C#_CollectionsTask\bin\Debug\net8.0\9.C#_CollectionsTask.pdb
+C:\Users\ASUS\source\repos\9.C#_CollectionsTask\9.C#_CollectionsTask\obj\Debug\net8.0\9.C#_CollectionsTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\9.C#_CollectionsTask\9.C#_CollectionsTask\obj\Debug\net8.0\9.C#_CollectionsTask.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\9.C#_CollectionsTask\9.C#_CollectionsTask\obj\Debug\net8.0\9.C#_CollectionsTask.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\9.C#_CollectionsTask\9.C#_CollectionsTask\obj\Debug\net8.0\9.C#_CollectionsTask.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\9.C#_CollectionsTask\9.C#_CollectionsTask\obj\Debug\net8.0\9.C#_CollectionsTask.dll
+C:\Users\ASUS\source\repos\9.C#_CollectionsTask\9.C#_CollectionsTask\obj\Debug\net8.0\refint\9.C#_CollectionsTask.dll
+C:\Users\ASUS\source\repos\9.C#_CollectionsTask\9.C#_CollectionsTask\obj\Debug\net8.0\9.C#_CollectionsTask.pdb
+C:\Users\ASUS\source\repos\9.C#_CollectionsTask\9.C#_CollectionsTask\obj\Debug\net8.0\9.C#_CollectionsTask.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\9.C#_CollectionsTask\9.C#_CollectionsTask\obj\Debug\net8.0\ref\9.C#_CollectionsTask.dll
